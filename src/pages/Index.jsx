@@ -68,9 +68,6 @@ const Index = () => {
           <Text>
             <strong>Area Size:</strong> {submittedData.areaSize} sq ft
           </Text>
-          <Button mt={4} colorScheme="green">
-            Submit Quote
-          </Button>
         </Box>
       )}
     </Container>
